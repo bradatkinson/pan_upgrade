@@ -1,0 +1,25 @@
+2021-05-12
+- Update email in Dockerfile
+
+2021-03-10
+- Add try/except around connection to device
+- Fix session count data retrieval method
+
+2021-02-25
+- Add missing docstrings
+- Update docstring documentation
+- Fix pylint issues
+
+2021-02-19
+- Add Docker files for easier deployment
+- Add documentation to script
+
+2021-02-02
+- Remove unused imports
+- Add print statements for better user notification
+- Fix issue with script not waiting till HA establishes after reboots
+- Rearrange when certain functions got called
+- Add functionality to set firewalls back to initial HA states
+
+2021-02-01
+- Initial commit

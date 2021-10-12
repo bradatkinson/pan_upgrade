@@ -1,0 +1,3 @@
+pandevice
+pan-os-python
+prettytable
