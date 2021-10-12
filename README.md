@@ -1,5 +1,3 @@
-[![Build Status](https://travis.ibm.com/batkinson/pan_upgrade.svg?token=6yT4HPZxJsdqMjet93iB&branch=master)](https://travis.ibm.com/batkinson/pan_upgrade)
-
 # pan_upgrade
 A script to upgrade Palo Alto Networks devices
 
